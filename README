@@ -1,7 +1,10 @@
-This repository contains all the default color configurations, for use with
-OpenColorIO.
+This repository contains the default color configuration for ACES 1.2,
+along with two new Input Device Transforms (IDTs) for ARRI LogC4 and
+DJI D-Log, for use with OpenColorIO.
 
-Visit opencolorio.org for additional information.
+
+
+Visit www.jimmyzhu.net/blog/dji-dlog-aces-idt for additional information.
 
 Copyright
 ---------
