@@ -131,7 +131,7 @@ Colorspaces and transforms representing the ACES ADX spaces used for film scanni
 - [ARRI 'Working with ACES'](http://www.arri.com/camera/alexa_mini/learn/working_with_aces/)
 - [ARRI Input Transforms](https://github.com/ampas/aces-dev/tree/v1.2/transforms/ctl/idt/vendorSupplied/arri/alexa)
 - Conversations with Joseph Goldstone of ARRI
-
+- [ARRI LogC4 Specification Data](https://www.arri.com/resource/blob/278790/bea879ac0d041a925bed27a096ab3ec2/2022-05-arri-logc4-specification-data.pdf)
 
 #### Canon
 
@@ -146,6 +146,8 @@ Colorspaces and transforms representing the ACES ADX spaces used for film scanni
 - [C100 Drivers and Software](http://www.usa.canon.com/cusa/professional/products/professional_cameras/cinema_eos_cameras/eos_c100#DriversAndSoftware)
     - Choose *OSX Mountain Lion v10.8* to download the IDTs
 
+#### DJI
+- [D-log/D-Gamut white paper](https://dl.djicdn.com/downloads/zenmuse+x7/20171010/D-Log_D-Gamut_Whitepaper.pdf)
 
 #### Panasonic
 
